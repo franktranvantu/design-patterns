@@ -1,6 +1,5 @@
 package com.example;
 
-import com.example.pattern.CSVDataMiner;
 import com.example.pattern.DataMiner;
 import com.example.pattern.DocDataMiner;
 
